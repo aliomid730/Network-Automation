@@ -1,0 +1,13 @@
+vtp mode transparent
+vlan 3
+ name FLOOR01
+vlan 4
+ name FLOOR02
+vlan 5
+ name FLOOR03
+vlan 6
+ name FLOOR04
+vlan 7
+ name WIRELESS
+vlan 8
+ name VOICE
