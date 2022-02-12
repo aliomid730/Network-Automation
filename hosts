@@ -1,0 +1,34 @@
+s1 = {
+    'device_type': 'cisco_ios',
+    'ip': '172.16.0.61',
+    'username': 'admin',
+    'password': 'Passw0rd',
+}
+
+s2 = {
+    'device_type': 'cisco_ios',
+    'ip': '172.16.0.59',
+    'username': 'admin',
+    'password': 'Passw0rd',
+}
+
+s3 = {
+    'device_type': 'cisco_ios',
+    'ip': '172.16.0.56',
+    'username': 'admin',
+    'password': 'Passw0rd',
+}
+
+s4 = {
+    'device_type': 'cisco_ios',
+    'ip': '172.16.0.58',
+    'username': 'admin',
+    'password': 'Passw0rd',
+}
+
+s5 = {
+    'device_type': 'cisco_ios',
+    'ip': '172.16.0.57',
+    'username': 'admin',
+    'password': 'Passw0rd',
+}
